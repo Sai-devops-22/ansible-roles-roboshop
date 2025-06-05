@@ -1,0 +1,2 @@
+REDIS_HOST: redis.dpractice.site
+MONGO_HOST: mongodb.dpractice.site
