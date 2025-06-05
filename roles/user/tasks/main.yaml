@@ -11,4 +11,4 @@
   - name: system-setup
     include_role:
       name: common
-      tasks_from: system-setup
+      tasks_from: system-setup.yaml
